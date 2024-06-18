@@ -10,12 +10,13 @@
     <header>
         <h1>Floricultura Jardim</h1>
         <nav>
-            <a href="/">Home</a>
-            <a href="/planta">Planta</a>
+        <a href="/">Home</a>
+            <a href="/plantas">Planta</a>
             <a href="/funcionarios">Funcionários</a>
+            <a href="/cidades">Cidades</a>
             <a href="/clientes">Clientes</a>
+            <a href="/itens">Itens</a>
             <a href="/pedidos">Pedidos</a>
-            <a href="/fornecedores">Fornecedores</a>
         </nav>
     </header>
     <div class="texto">

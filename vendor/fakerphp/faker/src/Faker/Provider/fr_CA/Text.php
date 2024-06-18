@@ -1494,7 +1494,7 @@ séparation ou de communauté de biens.
 
 Le lendemain, sur les quatre heures de relevée, Macloune mit ses
 habits des dimanches et se dirigea vers le presbytère où il trouva le
-curé qui se promenait dans les allées de son jardin, en récitant son
+curé qui se promenait dans les allées de son Jardim, en récitant son
 bréviaire.
 
 --Bonjour Maxime!

@@ -147,7 +147,7 @@ A certos respeitos, aquella vida antiga apparece-me despida de muitos
 encantos que lhe achei; mas é tambem exacto que perdeu muito espinho
 que a fez molesta, e, de memoria, conservo alguma recordação doce e
 feiticeira. Em verdade, pouco appareco e menos falo. Distracções raras.
-O mais do tempo é gasto em hortar, jardinar e ler; como bem e não durmo
+O mais do tempo é gasto em hortar, Jardimar e ler; como bem e não durmo
 mal.
 
 Ora, como tudo cança, esta monotonia acabou por exhaurir-me tambem.

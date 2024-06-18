@@ -594,7 +594,7 @@ un lorgnon d'écaille.
 
 Quand Charles, après être monté dire adieu au père Rouault, rentra
 dans la salle avant de partir, il la trouva debout, le front
-contre la fenêtre, et qui regardait dans le jardin, où les échalas
+contre la fenêtre, et qui regardait dans le Jardim, où les échalas
 des haricots avaient été renversés par le vent. Elle se retourna.
 
 -- Cherchez-vous quelque chose? demanda-t-elle.
@@ -844,10 +844,10 @@ les phrases leur vinrent. Ils montèrent dans sa chambre. Elle lui
 fit voir ses anciens cahiers de musique, les petits livres qu'on
 lui avait donnés en prix et les couronnes en feuilles de chêne,
 abandonnées dans un bas d'armoire. Elle lui parla encore de sa
-mère, du cimetière, et même lui montra dans le jardin la plate-
+mère, du cimetière, et même lui montra dans le Jardim la plate-
 bande dont elle cueillait les fleurs, tous les premiers vendredis
 de chaque mois, pour les aller mettre sur sa tombe. Mais le
-jardinier qu'ils avaient n'y entendait rien; on était si mal
+Jardimier qu'ils avaient n'y entendait rien; on était si mal
 servi! Elle eût bien voulu, ne fût-ce au moins que pendant
 l'hiver, habiter la ville, quoique la longueur des beaux jours
 rendît peut-être la campagne plus ennuyeuse encore durant l'été; -
@@ -1207,7 +1207,7 @@ ferrailles, de tonneaux vides, d'instruments de culture hors de
 service, avec quantité d'autres choses poussiéreuses dont il était
 impossible de deviner l'usage.
 
-Le jardin, plus long que large, allait, entre deux murs de bauge
+Le Jardim, plus long que large, allait, entre deux murs de bauge
 couverts d'abricots en espalier, jusqu'à une haie d'épines qui le
 séparait des champs. Il y avait au milieu un cadran solaire en
 ardoise, sur un piédestal de maçonnerie; quatre plates-bandes
@@ -1231,7 +1231,7 @@ hasard elle venait à mourir.
 Elle s'occupa, les premiers jours, à méditer des changements dans
 sa maison. Elle retira les globes des flambeaux, fit coller des
 papiers neufs, repeindre l'escalier et faire des bancs dans le
-jardin, tout autour du cadran solaire; elle demanda même comment
+Jardim, tout autour du cadran solaire; elle demanda même comment
 s'y prendre pour avoir un bassin à jet d'eau avec des poissons.
 Enfin son mari, sachant qu'elle aimait à se promener en voiture,
 trouva un boc d'occasion, qui, ayant une fois des lanternes neuves
@@ -1637,7 +1637,7 @@ lui prouvant d'un mot qu'il se trompait, le renvoyait à ses
 malades.
 
 Cependant, d'après des théories qu'elle croyait bonnes, elle
-voulut se donner de l'amour. Au clair de lune, dans le jardin,
+voulut se donner de l'amour. Au clair de lune, dans le Jardim,
 elle récitait tout ce qu'elle savait par coeur de rimes
 passionnées et lui chantait en soupirant des adagios
 mélancoliques; mais elle se trouvait ensuite aussi calme
@@ -1656,7 +1656,7 @@ un dessert prévu d'avance, après la monotonie du dîner.
 Un garde-chasse, guéri par Monsieur, d'une fluxion de poitrine,
 avait donné à Madame une petite levrette d'Italie; elle la prenait
 pour se promener, car elle sortait quelquefois, afin d'être seule
-un instant et de n'avoir plus sous les yeux l'éternel jardin avec
+un instant et de n'avoir plus sous les yeux l'éternel Jardim avec
 la route poudreuse.
 
 Elle allait jusqu'à la hêtraie de Banneville, près du pavillon
@@ -1743,7 +1743,7 @@ arrondissement. Il avait eu, lors des grandes chaleurs, un abcès
 dans la bouche, dont Charles l'avait soulagé comme par miracle, en
 y donnant à point un coup de lancette. L'homme d'affaires, envoyé
 à Tostes pour payer l'opération, conta, le soir, qu'il avait vu
-dans le jardinet du médecin des cerises superbes. Or, les
+dans le Jardimet du médecin des cerises superbes. Or, les
 cerisiers poussaient mal à la Vaubyessard, M. le Marquis demanda
 quelques boutures à Bovary, se fit un devoir de l'en remercier
 lui-même, aperçut Emma, trouva qu'elle avait une jolie taille et
@@ -1782,7 +1782,7 @@ la femme du médecin, l'introduisit dans le vestibule.
 Il était pavé de dalles en marbre, très haut, et le bruit des pas,
 avec celui des voix, y retentissait comme dans une église. En face
 montait un escalier droit, et à gauche une galerie donnant sur le
-jardin conduisait à la salle de billard dont on entendait, dès la
+Jardim conduisait à la salle de billard dont on entendait, dès la
 porte, caramboler les boules d'ivoire. Comme elle la traversait
 pour aller au salon, Emma vit autour du jeu des hommes à figure
 grave, le menton posé sur de hautes cravates, décorés tous, et qui
@@ -1973,7 +1973,7 @@ son cheval.
 L'air du bal était lourd; les lampes pâlissaient. On refluait dans
 la salle de billard. Un domestique monta sur une chaise et cassa
 deux vitres; au bruit des éclats de verre, madame Bovary tourna la
-tête et aperçut dans le jardin, contre les carreaux, des faces de
+tête et aperçut dans le Jardim, contre les carreaux, des faces de
 paysans qui regardaient. Alors le souvenir des Bertaux lui arriva.
 Elle revit la ferme, la mare bourbeuse, son père en blouse sous
 les pommiers, et elle se revit elle-même, comme autrefois,
@@ -2155,7 +2155,7 @@ froide. Emma, saisissant le porte-cigares, le jeta vivement au
 fond de l'armoire.
 
 La journée fut longue, le lendemain! Elle se promena dans son
-jardinet, passant et revenant par les mêmes allées, s'arrêtant
+Jardimet, passant et revenant par les mêmes allées, s'arrêtant
 devant les plates-bandes, devant l'espalier, devant le curé de
 plâtre, considérant avec ébahissement toutes ces choses
 d'autrefois qu'elle connaissait si bien. Comme le bal déjà lui
@@ -2278,7 +2278,7 @@ les larmes qui coulent sur les mains qu'on abandonne, toutes les
 fièvres de la chair et les langueurs de la tendresse ne se
 séparaient donc pas du balcon des grands châteaux qui sont pleins
 de loisirs, d'un boudoir à stores de soie avec un tapis bien
-épais, des jardinières remplies, un lit monté sur une estrade, ni
+épais, des Jardimières remplies, un lit monté sur une estrade, ni
 du scintillement des pierres précieuses et des aiguillettes de la
 livrée.
 
@@ -2467,7 +2467,7 @@ givre, et la lumière, blanchâtre à travers eux, comme par des
 verres dépolis, quelquefois ne variait pas de la journée. Dès
 quatre heures du soir, il fallait allumer la lampe.
 
-Les jours qu'il faisait beau, elle descendait dans le jardin. La
+Les jours qu'il faisait beau, elle descendait dans le Jardim. La
 rosée avait laissé sur les choux des guipures d'argent avec de
 longs fils clairs qui s'étendaient de l'un à l'autre. On
 n'entendait pas d'oiseaux, tout semblait dormir, l'espalier
@@ -3200,9 +3200,9 @@ l'Allée, qui permet d'entrer et de sortir sans être vu.
 D'ailleurs, elle est fournie de tout ce qui est agréable à un
 ménage: buanderie, cuisine avec office, salon de famille,
 fruitier, etc. C'était un gaillard qui n'y regardait pas! Il
-s'était fait construire, au bout du jardin, à côté de l'eau, une
+s'était fait construire, au bout du Jardim, à côté de l'eau, une
 tonnelle tout exprès pour boire de la bière en été, et si Madame
-aime le jardinage, elle pourra...
+aime le Jardimage, elle pourra...
 
 -- Ma femme ne s'en occupe guère, dit Charles; elle aime mieux,
 quoiqu'on lui recommande l'exercice, toujours rester dans sa
@@ -3342,7 +3342,7 @@ possédait des talents, il peignait à l'aquarelle, savait lire la
 clef de sol, et s'occupait volontiers de littérature après son
 dîner, quand il ne jouait pas aux cartes. M Homais le considérait
 pour son instruction; madame Homais l'affectionnait pour sa
-complaisance, car souvent il accompagnait au jardin les petits
+complaisance, car souvent il accompagnait au Jardim les petits
 Homais, marmots toujours barbouillés, fort mal élevés et quelque
 peu lymphatiques, comme leur mère. Ils avaient pour les soigner,
 outre la bonne, Justin, l'élève en pharmacie, un arrière-cousin de
@@ -3356,7 +3356,7 @@ cave à ce que la futaille fut bien placée; il indiqua encore la
 façon de s'y prendre pour avoir une provision de beurre à bon
 marché, et conclut un arrangement avec Lestiboudois, le
 sacristain, qui, outre ses fonctions sacerdotales et mortuaires,
-soignait les principaux jardins d'Yonville à l'heure ou à l'année,
+soignait les principaux Jardims d'Yonville à l'heure ou à l'année,
 selon le goût des personnes.
 
 Le besoin de s'occuper d'autrui ne poussait pas seul le pharmacien
@@ -3521,7 +3521,7 @@ Celle-ci ne se déplaisait point dans sa compagnie. Il avait couru
 le monde: il parlait de Berlin, de Vienne, de Strasbourg, de son
 temps d'officier, des maîtresses qu'il avait eues, des grands
 déjeuners qu'il avait faits; puis il se montrait aimable, et
-parfois même, soit dans l'escalier ou au jardin, il lui saisissait
+parfois même, soit dans l'escalier ou au Jardim, il lui saisissait
 la taille en s'écriant:
 
 -- Charles, prends garde à toi!
@@ -3675,7 +3675,7 @@ Yonville. C'était une des grandes occupations du clerc que de les
 entretenir; et il gardait, à cet usage, un canif tout particulier
 dans son écritoire. Ils s'en revinrent à Yonville en suivant le
 bord de l'eau. Dans la saison chaude, la berge plus élargie
-découvrait jusqu'à leur base les murs des jardins, qui avaient un
+découvrait jusqu'à leur base les murs des Jardims, qui avaient un
 escalier de quelques marches descendant à la rivière. Elle coulait
 sans bruit, rapide et froide à l'oeil; de grandes herbes minces
 s'y courbaient ensemble, selon le courant qui les poussait, et
@@ -3691,7 +3691,7 @@ la cadence de leurs pas sur la terre du sentier, les paroles
 qu'ils se disaient, et le frôlement de la robe d'Emma qui
 bruissait tout autour d'elle.
 
-Les murs des jardins, garnis à leur chaperon de morceaux de
+Les murs des Jardims, garnis à leur chaperon de morceaux de
 bouteilles, étaient chauds comme le vitrage d'une serre. Dans les
 briques, des ravenelles avaient poussé; et, du bord de son
 ombrelle déployée, madame Bovary, tout en passant, faisait
@@ -3726,7 +3726,7 @@ regarder où poser sa bottine, -- et, chancelant sur le caillou qui
 tremblait, les coudes en l'air, la taille penchée, l'oeil indécis,
 elle riait alors, de peur de tomber dans les flaques d'eau.
 
-Quand ils furent arrivés devant son jardin madame Bovary poussa la
+Quand ils furent arrivés devant son Jardim madame Bovary poussa la
 petite barrière, monta les marches en courant et disparut.
 
 Léon rentra à son étude. Le patron était absent; il jeta un coup
@@ -3884,7 +3884,7 @@ Madame, qu'il rapportait sur ses genoux, dans l'Hirondelle, tout
 en se piquant les doigts à leurs poils durs.
 
 Elle fit ajuster, contre sa croisée, une planchette à balustrade
-pour tenir ses potiches. Le clerc eut aussi son jardinet suspendu;
+pour tenir ses potiches. Le clerc eut aussi son Jardimet suspendu;
 ils s'apercevaient soignant leurs fleurs à leur fenêtre.
 
 Parmi les fenêtres du village, il y en avait une encore plus
@@ -4195,7 +4195,7 @@ pantoufles à chauffer. Ses gilets maintenant ne manquaient plus de
 doublure, ni ses chemises de boutons, et même il y avait plaisir à
 considérer dans l'armoire tous les bonnets de coton rangés par
 piles égales. Elle ne rechignait plus, comme autrefois, à faire
-des tours dans le jardin; ce qu'il proposait était toujours
+des tours dans le Jardim; ce qu'il proposait était toujours
 consenti, bien qu'elle ne devinât pas les volontés auxquelles elle
 se soumettait sans un murmure; -- et lorsque Léon le voyait au
 coin du feu, après le dîner, les deux mains sur son ventre, les
@@ -4335,7 +4335,7 @@ elle entendit tout à coup sonner l'Angelus.
 
 On était au commencement d'avril, quand les primevères sont
 écloses; un vent tiède se roule sur les plates-bandes labourées,
-et les jardins, comme des femmes, semblent faire leur toilette
+et les Jardims, comme des femmes, semblent faire leur toilette
 pour les fêtes de l'été. Par les barreaux de la tonnelle et au
 delà tout alentour, on voyait la rivière dans la prairie, où elle
 dessinait sur l'herbe des sinuosités vagabondes. La vapeur du soir
@@ -4841,7 +4841,7 @@ par les sanglots, laissa tomber ces deux mots tristes:
 -- Bonsoir, répondit M. Guillaumin. Lâchez tout! Ils partirent, et
 Homais s'en retourna.
 
-Madame Bovary avait ouvert sa fenêtre sur le jardin, et elle
+Madame Bovary avait ouvert sa fenêtre sur le Jardim, et elle
 regardait les nuages.
 
 Ils s'amoncelaient au couchant du côté de Rouen, et roulaient vite
@@ -4900,7 +4900,7 @@ faire de très beaux mariages.
 
 -- Vous avez raison, interrompit l'apothicaire, c'est le revers de
 la médaille! et l'on y est obligé continuellement d'avoir la main
-posée sur son gousset. Ainsi, vous êtes dans un jardin public, je
+posée sur son gousset. Ainsi, vous êtes dans un Jardim public, je
 suppose; un quidam se présente, bien mis, décoré même, et qu'on
 prendrait pour un diplomate; il vous aborde; vous causez; il
 s'insinue, vous offre une prise ou vous ramasse votre chapeau.
@@ -4971,7 +4971,7 @@ rivière coulait toujours, et poussait lentement ses petits flots
 le long de la berge glissante. Ils s'y étaient promenés bien des
 fois, à ce même murmure des ondes, sur les cailloux couverts de
 mousse. Quels bons soleils ils avaient eus! quelles bonnes après-
-midi, seuls, à l'ombre, dans le fond du jardin! Il lisait tout
+midi, seuls, à l'ombre, dans le fond du Jardim! Il lisait tout
 haut, tête nue, posé sur un tabouret de bâtons secs; le vent frais
 de la prairie faisait trembler les pages du livre et les capucines
 de la tonnelle... Ah! il était parti, le seul charme de sa vie, le
@@ -6414,7 +6414,7 @@ s'étirait mollement et tout entier à la chaleur de ce langage.
 voir, ah! du moins j'ai bien contemplé ce qui vous entoure. La
 nuit, toutes les nuits, je me relevais, j'arrivais jusqu'ici, je
 regardais votre maison, le toit qui brillait sous la lune, les
-arbres du jardin qui se balançaient à votre fenêtre, et une petite
+arbres du Jardim qui se balançaient à votre fenêtre, et une petite
 lampe, une lueur, qui brillait à travers les carreaux, dans
 l'ombre. Ah! vous ne saviez guère qu'il y avait là, si près et si
 loin, un pauvre misérable...
@@ -6526,7 +6526,7 @@ sur la campagne. Des vapeurs s'allongeaient à l'horizon, entre le
 contour des collines; et d'autres, se déchirant, montaient, se
 perdaient. Quelquefois, dans un écartement des nuées, sous un
 rayon de soleil, on apercevait au loin les toits d'Yonville, avec
-les jardins au bord de l'eau, les cours, les murs, et le clocher
+les Jardims au bord de l'eau, les cours, les murs, et le clocher
 de l'église. Emma fermait à demi les paupières pour reconnaître sa
 maison, et jamais ce pauvre village où elle vivait ne lui avait
 semblé si petit. De la hauteur où ils étaient, toute la vallée
@@ -6766,7 +6766,7 @@ courbé. Ils étaient assis l'un contre l'autre, sur un lit de
 feuilles sèches.
 
 À partir de ce jour-là, ils s'écrivirent régulièrement tous les
-soirs. Emma portait sa lettre au bout du jardin, près de la
+soirs. Emma portait sa lettre au bout du Jardim, près de la
 rivière, dans une fissure de la terrasse. Rodolphe venait l'y
 chercher et en plaçait une autre, qu'elle accusait toujours d'être
 trop courte.
@@ -6989,7 +6989,7 @@ mieux valu découvrir à Yonville quelque maison discrète. Rodolphe
 promit d'en chercher une.
 
 Pendant tout l'hiver, trois ou quatre fois la semaine, à la nuit
-noire, il arrivait dans le jardin. Emma, tout exprès, avait retiré
+noire, il arrivait dans le Jardim. Emma, tout exprès, avait retiré
 la clef de la barrière, que Charles crut perdue.
 
 Pour l'avertir, Rodolphe jetait contre les persiennes une poignée
@@ -7012,7 +7012,7 @@ souriante, palpitante, déshabillée.
 
 Rodolphe avait un grand manteau; il l'en enveloppait tout entière,
 et, passant le bras autour de sa taille, il l'entraînait sans
-parler jusqu'au fond du jardin.
+parler jusqu'au fond du Jardim.
 
 C'était sous la tonnelle, sur ce même banc de bâtons pourris où
 autrefois Léon la regardait si amoureusement, durant les soirs
@@ -7149,7 +7149,7 @@ chers enfants, et que le bon Dieu vous envoie tout le bonheur
 imaginable.
 
 «Il me fait deuil de ne pas connaître encore ma bien-aimée petite-
-fille Berthe Bovary. J'ai planté pour elle, dans le jardin, sous
+fille Berthe Bovary. J'ai planté pour elle, dans le Jardim, sous
 ta chambre, un prunier de prunes d'avoine, et je ne veux pas qu'on
 y touche, si ce n'est pour lui faire plus tard des compotes, que
 je garderai dans l'armoire, à son intention, quand elle viendra.
@@ -7756,7 +7756,7 @@ qu'elle pouvait avoir, imaginant une maladie nerveuse, pleurant,
 et sentant vaguement circuler autour de lui quelque chose de
 funeste et d'incompréhensible.
 
-Quand Rodolphe, le soir, arriva dans le jardin, il trouva sa
+Quand Rodolphe, le soir, arriva dans le Jardim, il trouva sa
 maîtresse qui l'attendait au bas du perron, sur la première
 marche. Ils s'étreignirent, et toute leur rancune se fondit comme
 une neige sous la chaleur de ce baiser.
@@ -8103,7 +8103,7 @@ Elle réfléchit quelques minutes, puis répondit:
 
 -- Quelle femme! se dit-il en la regardant s'éloigner.
 
-Car elle venait de s'échapper dans le jardin. On l'appelait.
+Car elle venait de s'échapper dans le Jardim. On l'appelait.
 
 La mère Bovary, les jours suivants, fut très étonnée de la
 métamorphose de sa bru. En effet, Emma se montra plus docile, et
@@ -8822,7 +8822,7 @@ avec des oreillers derrière elle. Charles pleura quand il la vit
 manger sa première tartine de confitures. Les forces lui
 revinrent; elle se levait quelques heures pendant l'après-midi,
 et, un jour qu'elle se sentait mieux, il essaya de lui faire
-faire, à son bras, un tour de promenade dans le jardin. Le sable
+faire, à son bras, un tour de promenade dans le Jardim. Le sable
 des allées disparaissait sous les feuilles mortes; elle marchait
 pas à pas, en traînant ses pantoufles, et, s'appuyant de l'épaule
 contre Charles, elle continuait à sourire.
@@ -8912,7 +8912,7 @@ quelque chose que de n'y pas continuellement réfléchir.
 L'hiver fut rude. La convalescence de Madame fut longue. Quand il
 faisait beau, on la poussait dans son fauteuil auprès de la
 fenêtre, celle qui regardait la Place; car elle avait maintenant
-le jardin en antipathie, et la persienne de ce côté restait
+le Jardim en antipathie, et la persienne de ce côté restait
 constamment fermée. Elle voulut que l'on vendît le cheval; ce
 qu'elle aimait autrefois, à présent lui déplaisait. Toutes ses
 idées paraissaient se borner au soin d'elle-même. Elle restait
@@ -9084,7 +9084,7 @@ ajouta d'un air triste:
 
 -- Allons, cours-y! amuse-toi!
 
-Elle fit, au commencement du printemps, bouleverser le jardin d'un
+Elle fit, au commencement du printemps, bouleverser le Jardim d'un
 bout à l'autre, malgré les observations de Bovary; il fut heureux,
 cependant de lui voir enfin manifester une volonté quelconque.
 Elle en témoigna davantage à mesure qu'elle se rétablissait.
@@ -9275,7 +9275,7 @@ poissées par les glorias, les vitres épaisses jaunies par les
 mouches, les serviettes humides tachées par le vin bleu; et qui,
 sentant toujours le village, comme des valets de ferme habillés en
 bourgeois, ont un café sur la rue, et du côté de la campagne un
-jardin à légumes. Charles immédiatement se mit en courses. Il
+Jardim à légumes. Charles immédiatement se mit en courses. Il
 confondit l'avant-scène avec les galeries, le parquet avec les
 loges, demanda des explications, ne les comprit pas, fut renvoyé
 du contrôleur au directeur, revint à l'auberge, retourna au
@@ -10328,13 +10328,13 @@ cailloux secs, et, longtemps, du côté d'Oyssel, au delà des îles.
 
 Mais tout à coup, elle s'élança d'un bond à travers Quatremares,
 Sotteville, la Grande-Chaussée, la rue d'Elbeuf, et fit sa
-troisième halte devant le jardin des plantes.
+troisième halte devant le Jardim des plantes.
 
 -- Marchez donc! s'écria la voix plus furieusement.
 
 Et aussitôt, reprenant sa course, elle passa par Saint-Sever, par
 le quai des Curandiers, par le quai aux Meules, encore une fois
-par le pont, par la place du Champ-de-Mars et derrière les jardins
+par le pont, par la place du Champ-de-Mars et derrière les Jardims
 de l'hôpital, où des vieillards en veste noire se promènent au
 soleil, le long d'une terrasse toute verdie par des lierres. Elle
 remonta le boulevard Bouvreuil, parcourut le boulevard Cauchoise,
@@ -10974,7 +10974,7 @@ Madame était dans sa chambre, d'où elle ne descendit qu'un quart
 d'heure après. Monsieur parut enchanté de le revoir; mais il ne
 bougea de la soirée, ni de tout le jour suivant.
 
-Il la vit seule, le soir, très tard, derrière le jardin, dans la
+Il la vit seule, le soir, très tard, derrière le Jardim, dans la
 ruelle; -- dans la ruelle, comme avec l'autre! Il faisait de
 l'orage, et ils causaient sous un parapluie à la lueur des
 éclairs.
@@ -11129,7 +11129,7 @@ surprises, elle fermait les yeux. Mais elle ne perdait jamais le
 sentiment net de la distance à parcourir.
 
 Enfin, les maisons de briques se rapprochaient, la terre résonnait
-sous les roues, l'Hirondelle glissait entre des jardins où l'on
+sous les roues, l'Hirondelle glissait entre des Jardims où l'on
 apercevait, par une claire-voie, des statues, un vignot, des ifs
 taillés et une escarpolette. Puis, d'un seul coup d'oeil, la ville
 apparaissait.
@@ -12323,14 +12323,14 @@ l'embrasser.
 
 Et il restait.
 
-Après le dîner, il se promenait seul dans le jardin; il prenait la
+Après le dîner, il se promenait seul dans le Jardim; il prenait la
 petite Berthe sur ses genoux, et, déployant son journal de
 médecine, essayait de lui apprendre à lire. L'enfant, qui
 n'étudiait jamais, ne tardait pas à ouvrir de grands yeux tristes
 et se mettait à pleurer. Alors il la consolait; il allait lui
 chercher de l'eau dans l'arrosoir pour faire des rivières sur le
 sable, ou cassait les branches des troènes pour planter des arbres
-dans les plates-bandes, ce qui gâtait peu le jardin; tout encombré
+dans les plates-bandes, ce qui gâtait peu le Jardim; tout encombré
 de longues herbes; on devait tant de journées à Lestiboudois! Puis
 l'enfant avait froid et demandait sa mère.
 
@@ -12484,7 +12484,7 @@ Elle aurait voulu, s'échappant comme un oiseau, aller se rajeunir
 quelque part, bien loin, dans les espaces immaculés.
 
 Elle sortit, elle traversa le boulevard, la place Cauchoise et le
-faubourg, jusqu'à une rue découverte qui dominait des jardins.
+faubourg, jusqu'à une rue découverte qui dominait des Jardims.
 Elle marchait vite, le grand air la calmait: et peu à peu les
 figures de la foule, les masques, les quadrilles, les lustres, le
 souper, ces femmes, tout disparaissait comme des brumes emportées.
@@ -13256,7 +13256,7 @@ qui expliquât les choses à Bovary. Laquelle?
 Cependant la nourrice était bien longue à revenir. Mais, comme il
 n'y avait point d'horloge dans la chaumière, Emma craignait de
 s'exagérer peut-être la longueur du temps. Elle se mit à faire des
-tours de promenade dans le jardin, pas à pas; elle alla dans le
+tours de promenade dans le Jardim, pas à pas; elle alla dans le
 sentier le long de la haie, et s'en retourna vivement, espérant
 que la bonne femme serait rentrée par une autre route. Enfin,
 lasse d'attendre, assaillie de soupçons qu'elle repoussait, ne
@@ -13491,7 +13491,7 @@ de-loup devant la grille; elle se cassa les ongles contre la
 serrure, tant elle se dépêchait pour l'ouvrir. Puis, cent pas plus
 loin, essoufflée, près de tomber, elle s'arrêta. Et alors, se
 détournant, elle aperçut encore une fois l'impassible château,
-avec le parc, les jardins, les trois cours, et toutes les fenêtres
+avec le parc, les Jardims, les trois cours, et toutes les fenêtres
 de la façade.
 
 Elle resta perdue de stupeur, et n'ayant plus conscience d'elle-
@@ -14240,7 +14240,7 @@ d'ailleurs...
 vous ne l'aimiez pas! Allez-vous-en!
 
 L'ecclésiastique le prit par-dessous le bras pour lui faire faire
-un tour de promenade dans le jardin. Il discourait sur la vanité
+un tour de promenade dans le Jardim. Il discourait sur la vanité
 des choses terrestres. Dieu était bien grand, bien bon; on devait
 sans murmure se soumettre à ses décrets, même le remercier.
 
@@ -14464,7 +14464,7 @@ s'épandant au dehors d'elle-même, elle se perdait confusément dans
 l'entourage des choses, dans le silence, dans la nuit, dans le
 vent qui passait, dans les senteurs humides qui montaient.
 
-Puis, tout à coup, il la voyait dans le jardin de Tostes, sur le
+Puis, tout à coup, il la voyait dans le Jardim de Tostes, sur le
 banc, contre la haie d'épines, ou bien à Rouen dans les rues, sur
 le seuil de leur maison, dans la cour des Bertaux. Il entendait
 encore le rire des garçons en gaieté qui dansaient sous les
@@ -15056,7 +15056,7 @@ roi et le comparait à Henri IV.
 
 Et chaque matin, l'apothicaire se précipitait sur le journal pour
 y découvrir sa nomination; elle ne venait pas. Enfin, n'y tenant
-plus, il fit dessiner dans son jardin un gazon figurant l'étoile
+plus, il fit dessiner dans son Jardim un gazon figurant l'étoile
 de l'honneur, avec deux petits tordillons d'herbe qui partaient du
 sommet pour imiter le ruban. Il se promenait autour, les bras
 croisés, en méditant sur l'ineptie du gouvernement et
@@ -15079,7 +15079,7 @@ personne, refusait même d'aller voir ses malades. Alors on
 prétendit qu'il s'enfermait pour boire.
 
 Quelquefois pourtant, un curieux se haussait par-dessus la haie du
-jardin, et apercevait avec ébahissement cet homme à barbe longue,
+Jardim, et apercevait avec ébahissement cet homme à barbe longue,
 couvert d'habits sordides, farouche, et qui pleurait tout haut en
 marchant.
 

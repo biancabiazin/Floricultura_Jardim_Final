@@ -26,15 +26,15 @@ class FuncionarioController extends Controller
         return redirect()->back()->with('success', 'Funcionario inserido com sucesso.');
     }
 
-    public function show($id)
+    public function show($id_funcionario)
     {
-        $funcionario = Funcionario::findOrFail($id);
+        $funcionario = Funcionario::findOrFail($id_funcionario);
         return view('funcionarios.show', compact('funcionario'));
     }
 
-    public function update(Request $request, $id)
+    public function update(Request $request, $id_funcionario)
     {
-        $funcionario = Funcionario::findOrFail($id);
+        $funcionario = Funcionario::findOrFail($id_funcionario);
         $funcionario->nome = $request->input('nome');
         $funcionario->cpf = $request->input('cpf');
         $funcionario->cargo = $request->input('cargo');
@@ -45,9 +45,9 @@ class FuncionarioController extends Controller
         return redirect()->back()->with('success', 'Funcionario atualizado com sucesso.');
     }
 
-    public function destroy($id)
+    public function destroy($id_funcionario)
     {
-        $funcionario = Funcionario::findOrFail($id);
+        $funcionario = Funcionario::findOrFail($id_funcionario);
         $funcionario->delete();
 
         return redirect()->back()->with('success', 'Funcionario excluído com sucesso.');

@@ -60,7 +60,7 @@ class Person extends \Faker\Provider\Person
         'Beaudoin', 'Beaulieu', 'Bédard', 'Bélanger', 'Benoît', 'Bergeron', 'Bernard', 'Bernier', 'Bertrand', 'Bérubé',
         'Bilodeau', 'Blais', 'Blanchette', 'Boisvert', 'Boivin', 'Bolduc', 'Bouchard', 'Boucher', 'Boudreau',
         'Caron', 'Carrier', 'Champagne', 'Charbonneau', 'Cloutier', 'Côté', 'Couture', 'Cyr',
-        'Demers', 'Deschênes', 'Desjardins', 'Desrosiers', 'Dion', 'Dionne', 'Drouin', 'Dubé', 'Dubois', 'Dufour', 'Dupuis',
+        'Demers', 'Deschênes', 'DesJardims', 'Desrosiers', 'Dion', 'Dionne', 'Drouin', 'Dubé', 'Dubois', 'Dufour', 'Dupuis',
         'Fillion', 'Fontaine', 'Fortier', 'Fortin', 'Fournier',
         'Gagné', 'Gagnon', 'Gaudreault', 'Gauthier', 'Giguère', 'Gilbert', 'Gingras', 'Girard', 'Giroux', 'Goulet',
         'Gosselin', 'Gravel', 'Grenier', 'Guay',

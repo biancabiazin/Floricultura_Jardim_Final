@@ -9,10 +9,6 @@ use App\Http\Controllers\ItensController;
 use App\Http\Controllers\PedidoController;
 use App\Http\Controllers\PlantaController;
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
 Route::get('/', [HomeController::class, 'index']);
 
 // cidades:

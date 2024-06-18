@@ -26,15 +26,15 @@ class PlantaController extends Controller
         return redirect()->back()->with('success', 'Planta inserida com sucesso.');
     }
 
-    public function show($id)
+    public function show($id_planta)
     {
-        $planta = Planta::findOrFail($id);
+        $planta = Planta::findOrFail($id_planta);
         return view('plantas.show', compact('planta'));
     }
 
-    public function update(Request $request, $id)
+    public function update(Request $request, $id_planta)
     {
-        $planta = Planta::findOrFail($id);
+        $planta = Planta::findOrFail($id_planta);
         $planta->nome = $request->input('nome');
         $planta->especie = $request->input('especie');
         $planta->preco = $request->input('preco');
@@ -45,9 +45,9 @@ class PlantaController extends Controller
         return redirect()->back()->with('success', 'Planta atualizada com sucesso.');
     }
 
-    public function destroy($id)
+    public function destroy($id_planta)
     {
-        $planta = Planta::findOrFail($id);
+        $planta = Planta::findOrFail($id_planta);
         $planta->delete();
 
         return redirect()->back()->with('success', 'Planta excluída com sucesso.');

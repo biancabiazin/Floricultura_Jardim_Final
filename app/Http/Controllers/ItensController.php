@@ -23,15 +23,15 @@ class ItensController extends Controller
         return redirect()->back()->with('success', 'Lista de Itens inserida com sucesso.');
     }
 
-    public function show($id)
+    public function show($id_itens)
     {
-        $item = Itens::findOrFail($id);
+        $item = Itens::findOrFail($id_itens);
         return view('itens.show', compact('item'));
     }
 
-    public function update(Request $request, $id)
+    public function update(Request $request, $id_itens)
     {
-        $itens = Itens::findOrFail($id);
+        $itens = Itens::findOrFail($id_itens);
         $itens->qtd_itens = $request->input('qtd_itens');
         $itens->fk_planta = $request->input('fk_planta');
         $itens->save();
@@ -39,9 +39,9 @@ class ItensController extends Controller
         return redirect()->back()->with('success', 'Lista de Itens atualizada com sucesso.');
     }
 
-    public function destroy($id)
+    public function destroy($id_itens)
     {
-        $itens = Itens::findOrFail($id);
+        $itens = Itens::findOrFail($id_itens);
         $itens->delete();
 
         return redirect()->back()->with('success', 'Lista de Itens excluída com sucesso.');
