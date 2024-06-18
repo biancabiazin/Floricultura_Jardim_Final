@@ -26,15 +26,15 @@ class PedidoController extends Controller
         return redirect()->back()->with('success', 'Pedido inserido com sucesso.');
     }
 
-    public function show($id)
+    public function show($id_pedido)
     {
-        $pedido = Pedido::findOrFail($id);
+        $pedido = Pedido::findOrFail($id_pedido);
         return view('pedidos.show', compact('pedido'));
     }
 
-    public function update(Request $request, $id)
+    public function update(Request $request, $id_pedido)
     {
-        $pedido = Pedido::findOrFail($id);
+        $pedido = Pedido::findOrFail($id_pedido);
         $pedido->data_pedido = $request->input('data_pedido');
         $pedido->status_pedido = $request->input('status_pedido');
         $pedido->fk_cliente = $request->input('fk_cliente');
@@ -45,9 +45,9 @@ class PedidoController extends Controller
         return redirect()->back()->with('success', 'Pedido atualizado com sucesso.');
     }
 
-    public function destroy($id)
+    public function destroy($id_pedido)
     {
-        $pedido = Pedido::findOrFail($id);
+        $pedido = Pedido::findOrFail($id_pedido);
         $pedido->delete();
 
         return redirect()->back()->with('success', 'Pedido excluído com sucesso.');

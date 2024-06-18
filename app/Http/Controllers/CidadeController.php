@@ -24,15 +24,15 @@ class CidadeController extends Controller
         return redirect()->back()->with('success', 'Cidade inserida com sucesso.');
     }
 
-    public function show($id)
+    public function show($id_cidade)
     {
-        $cidade = Cidade::findOrFail($id);
+        $cidade = Cidade::findOrFail($id_cidade);
         return view('cidades.show', compact('cidade'));
     }
 
-    public function update(Request $request, $id)
+    public function update(Request $request, $id_cidade)
     {
-        $cidade = Cidade::findOrFail($id);
+        $cidade = Cidade::findOrFail($id_cidade);
         $cidade->nome = $request->input('nome');
         $cidade->estado = $request->input('estado');
         $cidade->pais = $request->input('pais');
@@ -41,9 +41,9 @@ class CidadeController extends Controller
         return redirect()->back()->with('success', 'Cidade atualizada com sucesso.');
     }
 
-    public function destroy($id)
+    public function destroy($id_cidade)
     {
-        $cidade = Cidade::findOrFail($id);
+        $cidade = Cidade::findOrFail($id_cidade);
         $cidade->delete();
 
         return redirect()->back()->with('success', 'Cidade excluída com sucesso.');
