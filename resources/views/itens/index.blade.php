@@ -10,7 +10,7 @@
     <header>
         <h1>Floricultura Jardim</h1>
         <nav>
-        <a href="/">Home</a>
+            <a href="/">Home</a>
             <a href="/plantas">Planta</a>
             <a href="/funcionarios">Funcionários</a>
             <a href="/cidades">Cidades</a>
@@ -28,42 +28,44 @@
                 <input type="number" id="qtd_itens" name="qtd_itens" required>
             </div>
             <div class="form-grupo">
-                <label for="fk_planta">Planta:</label>
-                <input type="text" id="fk_planta" name="fk_planta" required>
+                <label for="fk_planta">ID da Planta:</label>
+                <input type="number" id="fk_planta" name="fk_planta" required>
             </div>
             <div class="form-grupo">
                 <button type="submit">Inserir</button>
                 <button type="reset">Limpar</button>
             </div>
         </form>
-        <table class="$itens">
+        
+        <!-- Tabela para exibir os itens já inseridos -->
+        <table>
             <thead>
                 <tr>
                     <th>ID</th>
                     <th>Qtd. Itens</th>
-                    <th>$planta</th>
+                    <th>ID da Planta</th>
                     <th>Editar</th>
                     <th>Excluir</th>
                 </tr>
             </thead>
+            <tbody>
+                @foreach($itens as $item)
+                <tr>
+                    <td>{{ $item->id_itens }}</td>
+                    <td>{{ $item->qtd_itens }}</td>
+                    <td>{{ $item->fk_planta }}</td>
+                    <td><a href="{{ route('itens.show', ['id' => $item->id_itens]) }}">Editar</a></td>
+                    <td>
+                        <form action="{{ route('itens.destroy', ['id' => $item->id_itens]) }}" method="POST">
+                            @csrf
+                            @method('DELETE')
+                            <button type="submit">Excluir</button>
+                        </form>
+                    </td>
+                </tr>
+                @endforeach
+            </tbody>
         </table>
-        <tbody>
-        @foreach($itens as $item)
-        <tr>
-            <td>{{ $item->id_itens }}</td>
-            <td>{{ $item->qtd_itens }}</td>
-            <td>{{ $item->fk_planta }}</td>
-            <td><a href="{{ route('itens.update', ['id' => $item->id_itens]) }}">Editar</a></td>
-            <td>
-                <form action="{{ route('itens.destroy', ['id' => $item->id_itens]) }}" method="POST">
-                    @csrf
-                    @method('DELETE')
-                    <button type="submit">Excluir</button>
-                </form>
-            </td>
-        </tr>
-        @endforeach
-    </tbody>
     </div>
 </body>
 </html>

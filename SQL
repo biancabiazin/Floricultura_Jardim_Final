@@ -1,0 +1,54 @@
+CREATE TABLE Planta (
+    id_planta INT PRIMARY KEY NOT NULL,
+    nome VARCHAR(100) NOT NULL,
+    especie VARCHAR(100) NOT NULL,
+    preco DECIMAL(10, 2) NOT NULL,
+    qtd_estoque INT NOT NULL,
+    tamanho DECIMAL(5, 2) NOT NULL
+);
+
+CREATE TABLE Itens_Pedido (
+    id_itens INT PRIMARY KEY NOT NULL,
+    qtd_itens INT NOT NULL,
+    fk_planta INT NOT NULL,
+    FOREIGN KEY (fk_planta) REFERENCES Planta(id_planta)
+);
+
+CREATE TABLE Cidade (
+    id_cidade INT PRIMARY KEY NOT NULL,
+    estado VARCHAR(100) NOT NULL,
+    pais VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Cliente (
+    id_cliente INT PRIMARY KEY NOT NULL,
+    nome VARCHAR(100) NOT NULL,
+    telefone VARCHAR(20) NOT NULL,
+    email VARCHAR(40) NOT NULL,
+    cpf VARCHAR(14) NOT NULL,
+    endereco INT NOT NULL,
+    fk_cidade INT NOT NULL,
+    FOREIGN KEY (fk_cidade ) REFERENCES Cidade(id_cidade)
+);
+
+CREATE TABLE Funcionario (
+    id_funcionario INT PRIMARY KEY NOT NULL,
+    nome VARCHAR(100) NOT NULL,
+    cpf VARCHAR(14) NOT NULL,
+    cargo VARCHAR(40) NOT NULL,
+    salario DECIMAL(10, 2) NOT NULL,
+    contato VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Pedido (
+    id_pedido INT PRIMARY KEY NOT NULL,
+    data_pedido DATE NOT NULL,
+    status_pedido VARCHAR(20) NOT NULL,
+    fk_cliente INT,
+    fk_funcionario INT,
+    fk_itens INT,
+    FOREIGN KEY (fk_cliente) REFERENCES Cliente(id_cliente),
+    FOREIGN KEY (fk_funcionario) REFERENCES Funcionario(id_funcionario),
+    FOREIGN KEY (fk_itens) REFERENCES Itens_Pedido(id_itens)
+);
+

@@ -48,7 +48,7 @@
                 <button type="reset">Limpar</button>
             </div>
         </form>
-        <table class="$funcionario">
+        <table class="funcionario">
             <thead>
                 <tr>
                     <th>ID</th>
